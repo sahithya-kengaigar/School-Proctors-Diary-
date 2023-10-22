@@ -38,7 +38,7 @@ if($lastInsertId)
 {
 $msg="Result info added successfully";
 }
-else 
+else
 {
 $error="Something went wrong. Please try again";
 }
